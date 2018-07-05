@@ -1,0 +1,17 @@
+{
+  "name": "basesnode03",
+  "version": "1.0.0",
+  "description": "Esta es una aplicación de línea de comando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gerardo Zamudio",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
